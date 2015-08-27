@@ -1,0 +1,15 @@
+.pole {
+	width: 400px;
+	height: 400px;
+	background: gray;
+}
+.kletka {
+	float: left;
+	margin: 1px;
+	width: 98px;
+	height: 98px;
+	background: white;
+	text-align: center;
+    line-height: 96px;
+    font-size: 30px;
+}
